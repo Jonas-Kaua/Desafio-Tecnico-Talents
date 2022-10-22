@@ -14,7 +14,7 @@ function Cadastrar () {
 
     const [alert, setAlert] = useState(false);
 
-    const history = useNavigate();
+    const history = useNavigate();// osdioidsiodiopsoiddsio
 
     useEffect(()=>{
       if(idRoute){
